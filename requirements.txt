@@ -1,0 +1,9 @@
+# requirements.txt
+streamlit
+python-dotenv
+langchain
+langchain-groq
+langchain-milvus
+sentence-transformers # For the BAAI embedding model in the backend
+pymilvus
+loguru # A clean, fast logging library

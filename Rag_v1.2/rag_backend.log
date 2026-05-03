@@ -1,0 +1,170 @@
+2025-12-22 09:08:31.437 | INFO     | backend_service:<module>:24 - Retrieval Backend Service Initialized.
+2025-12-22 09:08:35.661 | SUCCESS  | backend_service:<module>:41 - Embedding model loaded and wrapped successfully.
+2025-12-22 09:08:35.741 | SUCCESS  | backend_service:<module>:62 - Milvus connection to web_scraped_semantic_bge_robust_v1 successful.
+2025-12-22 09:08:35.796 | INFO     | backend_service:<module>:133 - Retrieval Backend Service Initialized.
+2025-12-22 09:08:35.796 | INFO     | backend_service:<module>:133 - Retrieval Backend Service Initialized.
+2025-12-22 09:08:40.350 | SUCCESS  | backend_service:<module>:150 - Embedding model loaded and wrapped successfully.
+2025-12-22 09:08:40.350 | SUCCESS  | backend_service:<module>:150 - Embedding model loaded and wrapped successfully.
+2025-12-22 09:08:40.438 | SUCCESS  | backend_service:<module>:171 - Milvus connection to web_scraped_semantic_bge_robust_v1 successful.
+2025-12-22 09:08:40.438 | SUCCESS  | backend_service:<module>:171 - Milvus connection to web_scraped_semantic_bge_robust_v1 successful.
+2025-12-22 09:09:00.558 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: what is amd epyc turin
+2025-12-22 09:09:00.558 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: what is amd epyc turin
+2025-12-22 09:09:00.704 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 09:09:00.704 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 09:12:25.358 | INFO     | backend_service:<module>:24 - Retrieval Backend Service Initialized.
+2025-12-22 09:12:29.237 | SUCCESS  | backend_service:<module>:41 - Embedding model loaded and wrapped successfully.
+2025-12-22 09:12:29.345 | SUCCESS  | backend_service:<module>:62 - Milvus connection to web_scraped_semantic_bge_robust_v1 successful.
+2025-12-22 09:12:29.377 | INFO     | backend_service:<module>:133 - Retrieval Backend Service Initialized.
+2025-12-22 09:12:29.377 | INFO     | backend_service:<module>:133 - Retrieval Backend Service Initialized.
+2025-12-22 09:12:32.528 | SUCCESS  | backend_service:<module>:150 - Embedding model loaded and wrapped successfully.
+2025-12-22 09:12:32.528 | SUCCESS  | backend_service:<module>:150 - Embedding model loaded and wrapped successfully.
+2025-12-22 09:12:32.591 | SUCCESS  | backend_service:<module>:171 - Milvus connection to web_scraped_semantic_bge_robust_v1 successful.
+2025-12-22 09:12:32.591 | SUCCESS  | backend_service:<module>:171 - Milvus connection to web_scraped_semantic_bge_robust_v1 successful.
+2025-12-22 09:13:01.115 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: what is amd epyc turin
+2025-12-22 09:13:01.115 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: what is amd epyc turin
+2025-12-22 09:13:01.228 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 09:13:01.228 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 09:13:31.134 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: what is amd
+2025-12-22 09:13:31.134 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: what is amd
+2025-12-22 09:13:31.305 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 09:13:31.305 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 09:13:44.065 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: what is amd epyc turin
+2025-12-22 09:13:44.065 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: what is amd epyc turin
+2025-12-22 09:13:44.174 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 09:13:44.174 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 09:15:46.879 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: what processor are there in amd
+2025-12-22 09:15:46.879 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: what processor are there in amd
+2025-12-22 09:15:46.979 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 09:15:46.979 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 10:36:36.524 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: what is amd epyc turin
+2025-12-22 10:36:36.524 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: what is amd epyc turin
+2025-12-22 10:36:37.675 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 10:36:37.675 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 11:21:56.285 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: what is amd ryzen
+2025-12-22 11:21:56.285 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: what is amd ryzen
+2025-12-22 11:21:57.181 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 11:21:57.181 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 11:25:31.700 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: amd epyc turin
+2025-12-22 11:25:31.700 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: amd epyc turin
+2025-12-22 11:25:31.854 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 11:25:31.854 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 11:25:52.582 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: what is amd epyc turin
+2025-12-22 11:25:52.582 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: what is amd epyc turin
+2025-12-22 11:25:52.671 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 11:25:52.671 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 11:26:42.814 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: help me with amd epyc turin 
+2025-12-22 11:26:42.814 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: help me with amd epyc turin 
+2025-12-22 11:26:42.902 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 11:26:42.902 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 11:27:19.729 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: amd epyc turin 
+2025-12-22 11:27:19.729 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: amd epyc turin 
+2025-12-22 11:27:19.853 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 11:27:19.853 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 11:27:48.507 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: different types of processors from amd
+2025-12-22 11:27:48.507 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: different types of processors from amd
+2025-12-22 11:27:48.595 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 11:27:48.595 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 11:28:02.227 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: different types of amd epyc processors from amd
+2025-12-22 11:28:02.227 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: different types of amd epyc processors from amd
+2025-12-22 11:28:02.332 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 11:28:02.332 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 11:28:20.646 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: different types of processors from amd
+2025-12-22 11:28:20.646 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: different types of processors from amd
+2025-12-22 11:28:20.750 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 11:28:20.750 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 11:29:01.549 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: what are gpus from amd
+2025-12-22 11:29:01.549 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: what are gpus from amd
+2025-12-22 11:29:01.720 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 11:29:01.720 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 11:29:56.678 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: list five amd epyc processors
+2025-12-22 11:29:56.678 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: list five amd epyc processors
+2025-12-22 11:29:56.766 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 11:29:56.766 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 5 chunks.
+2025-12-22 11:32:39.368 | INFO     | backend_service:<module>:24 - Retrieval Backend Service Initialized.
+2025-12-22 11:32:43.226 | SUCCESS  | backend_service:<module>:41 - Embedding model loaded and wrapped successfully.
+2025-12-22 11:32:43.350 | SUCCESS  | backend_service:<module>:62 - Milvus connection to web_scraped_semantic_bge_robust_v1 successful.
+2025-12-22 11:32:43.378 | INFO     | backend_service:<module>:133 - Retrieval Backend Service Initialized.
+2025-12-22 11:32:43.378 | INFO     | backend_service:<module>:133 - Retrieval Backend Service Initialized.
+2025-12-22 11:32:46.770 | SUCCESS  | backend_service:<module>:150 - Embedding model loaded and wrapped successfully.
+2025-12-22 11:32:46.770 | SUCCESS  | backend_service:<module>:150 - Embedding model loaded and wrapped successfully.
+2025-12-22 11:32:46.871 | SUCCESS  | backend_service:<module>:171 - Milvus connection to web_scraped_semantic_bge_robust_v1 successful.
+2025-12-22 11:32:46.871 | SUCCESS  | backend_service:<module>:171 - Milvus connection to web_scraped_semantic_bge_robust_v1 successful.
+2025-12-22 11:32:59.093 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: what is amd turin
+2025-12-22 11:32:59.093 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: what is amd turin
+2025-12-22 11:32:59.228 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 10 chunks.
+2025-12-22 11:32:59.228 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 10 chunks.
+2025-12-22 11:33:09.828 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: what is amd epyc turin
+2025-12-22 11:33:09.828 | INFO     | backend_service:retrieve_chunks:183 - Processing retrieval for query: what is amd epyc turin
+2025-12-22 11:33:09.960 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 10 chunks.
+2025-12-22 11:33:09.960 | INFO     | backend_service:retrieve_chunks:202 - Successfully retrieved 10 chunks.
+2025-12-22 11:44:19.868 | INFO     | backend_service:<module>:22 - Retrieval Backend Service Initialized.
+2025-12-22 11:44:23.223 | SUCCESS  | backend_service:<module>:40 - Embedding model loaded and wrapped successfully.
+2025-12-22 11:44:23.332 | SUCCESS  | backend_service:<module>:75 - Milvus connection to web_scraped_semantic_bge_robust_v1 successful (Metric: IP).
+2025-12-22 11:44:34.800 | INFO     | backend_service:retrieve_chunks:86 - Processing IP retrieval for query: what is amd epyc turin
+2025-12-22 11:44:34.990 | INFO     | backend_service:retrieve_chunks:107 - Successfully retrieved 10 chunks.
+2025-12-22 11:46:58.020 | INFO     | backend_service:<module>:22 - Retrieval Backend Service Initialized.
+2025-12-22 11:47:01.396 | SUCCESS  | backend_service:<module>:40 - Embedding model loaded and wrapped successfully.
+2025-12-22 11:47:01.493 | SUCCESS  | backend_service:<module>:75 - Milvus connection to web_scraped_semantic_bge_robust_v1 successful (Metric: IP).
+2025-12-22 11:47:20.021 | INFO     | backend_service:retrieve_chunks:87 - Processing retrieval for query: what is amd epyc turin
+2025-12-22 11:47:20.161 | INFO     | backend_service:retrieve_chunks:114 - Successfully retrieved and sorted 10 chunks.
+2025-12-22 11:48:25.839 | INFO     | backend_service:<module>:31 - Chunk Retrieval Backend Service Initialized.
+2025-12-22 11:48:25.839 | INFO     | backend_service:__init__:39 - Loading embedding model...
+2025-12-22 11:48:29.349 | SUCCESS  | backend_service:__init__:41 - Embedding model successfully loaded.
+2025-12-22 11:48:29.445 | SUCCESS  | backend_service:<module>:69 - Connected to Milvus collection: web_scraped_semantic_bge_robust_v1
+2025-12-22 11:58:06.815 | INFO     | backend_service:<module>:27 - RAG Backend Service Initialized.
+2025-12-22 11:58:06.817 | INFO     | backend_service:__init__:35 - Loading Embedding Model: BAAI/bge-base-en-v1.5...
+2025-12-22 11:58:11.017 | SUCCESS  | backend_service:__init__:37 - Embedding Model Loaded.
+2025-12-22 11:58:11.203 | SUCCESS  | backend_service:<module>:80 - Connected to Milvus: web_scraped_semantic_bge_robust_v1 (Metric: IP)
+2025-12-22 12:01:55.513 | INFO     | backend_service:<module>:24 - Retrieval Backend Service Initialized.
+2025-12-22 12:01:55.514 | INFO     | backend_service:__init__:31 - Loading embedding model...
+2025-12-22 12:01:59.530 | SUCCESS  | backend_service:__init__:33 - Embedding model successfully loaded.
+2025-12-22 12:01:59.872 | SUCCESS  | backend_service:<module>:77 - Milvus connection to web_scraped_semantic_bge_robust_v1 successful (Metric: IP).
+2025-12-22 12:03:39.223 | INFO     | backend_service:<module>:24 - Retrieval Backend Service Initialized.
+2025-12-22 12:03:39.225 | INFO     | backend_service:__init__:31 - Loading embedding model...
+2025-12-22 12:03:43.173 | SUCCESS  | backend_service:__init__:33 - Embedding model successfully loaded.
+2025-12-22 12:03:43.298 | SUCCESS  | backend_service:<module>:77 - Milvus connection to web_scraped_semantic_bge_robust_v1 successful (Metric: IP).
+2025-12-22 12:04:00.106 | INFO     | backend_service:get_rag_response:102 - Processing query: what is amd epyc turin
+2025-12-22 12:04:00.426 | INFO     | backend_service:get_rag_response:111 - Successfully retrieved 10 chunks.
+2025-12-22 12:05:42.809 | INFO     | backend_service:<module>:24 - Retrieval Backend Service Initialized.
+2025-12-22 12:05:42.811 | INFO     | backend_service:__init__:31 - Loading embedding model...
+2025-12-22 12:05:46.692 | SUCCESS  | backend_service:__init__:33 - Embedding model successfully loaded.
+2025-12-22 12:05:46.817 | SUCCESS  | backend_service:<module>:77 - Milvus connection to web_scraped_semantic_bge_robust_v4 successful (Metric: IP).
+2025-12-22 12:05:53.506 | INFO     | backend_service:get_rag_response:102 - Processing query: what is amd epyc turin
+2025-12-22 12:05:53.707 | INFO     | backend_service:get_rag_response:111 - Successfully retrieved 10 chunks.
+2025-12-22 12:06:09.124 | INFO     | backend_service:get_rag_response:102 - Processing query: turin
+2025-12-22 12:06:09.286 | INFO     | backend_service:get_rag_response:111 - Successfully retrieved 10 chunks.
+2025-12-22 12:07:06.944 | INFO     | backend_service:<module>:24 - Retrieval Backend Service Initialized.
+2025-12-22 12:07:06.945 | INFO     | backend_service:__init__:31 - Loading embedding model...
+2025-12-22 12:07:11.048 | SUCCESS  | backend_service:__init__:33 - Embedding model successfully loaded.
+2025-12-22 12:07:11.166 | SUCCESS  | backend_service:<module>:77 - Milvus connection to web_scraped_semantic_bge_robust_v1 successful (Metric: IP).
+2025-12-22 12:07:18.864 | INFO     | backend_service:get_rag_response:102 - Processing query: what is amd epyc turin
+2025-12-22 12:07:19.131 | INFO     | backend_service:get_rag_response:111 - Successfully retrieved 10 chunks.
+2025-12-22 12:07:30.256 | INFO     | backend_service:get_rag_response:102 - Processing query: amd epyc turin
+2025-12-22 12:07:30.417 | INFO     | backend_service:get_rag_response:111 - Successfully retrieved 10 chunks.
+2025-12-22 12:07:32.564 | INFO     | backend_service:get_rag_response:102 - Processing query: amd epyc turin
+2025-12-22 12:07:32.828 | INFO     | backend_service:get_rag_response:111 - Successfully retrieved 10 chunks.
+2025-12-22 12:13:39.901 | INFO     | backend_service:get_rag_response:102 - Processing query: explain about MI300x
+2025-12-22 12:13:40.078 | INFO     | backend_service:get_rag_response:111 - Successfully retrieved 10 chunks.
+2025-12-22 12:13:42.788 | INFO     | backend_service:get_rag_response:102 - Processing query: explain about MI300x
+2025-12-22 12:13:42.935 | INFO     | backend_service:get_rag_response:111 - Successfully retrieved 10 chunks.
+2025-12-22 12:17:51.952 | INFO     | backend_service:<module>:22 - Retrieval Backend Service Initialized.
+2025-12-22 12:17:54.794 | SUCCESS  | backend_service:<module>:40 - Embedding model loaded and wrapped successfully.
+2025-12-22 12:17:54.945 | SUCCESS  | backend_service:<module>:75 - Milvus connection to web_scraped_semantic_bge_robust_v1 successful (Metric: IP).
+2025-12-22 12:18:07.916 | INFO     | backend_service:retrieve_chunks:86 - Processing IP retrieval for query: explain about MI300x
+2025-12-22 12:18:08.135 | INFO     | backend_service:retrieve_chunks:107 - Successfully retrieved 10 chunks.
+2025-12-22 12:24:22.348 | INFO     | backend_service:retrieve_chunks:86 - Processing IP retrieval for query:  who is the ceo of amd
+2025-12-22 12:24:22.546 | INFO     | backend_service:retrieve_chunks:107 - Successfully retrieved 10 chunks.
+2025-12-22 12:42:49.324 | INFO     | backend_service:retrieve_chunks:86 - Processing IP retrieval for query: what is amd epyc turin
+2025-12-22 12:42:49.679 | INFO     | backend_service:retrieve_chunks:107 - Successfully retrieved 10 chunks.
+2025-12-22 12:42:55.769 | INFO     | backend_service:retrieve_chunks:86 - Processing IP retrieval for query: what is amd epyc turin
+2025-12-22 12:42:56.013 | INFO     | backend_service:retrieve_chunks:107 - Successfully retrieved 10 chunks.
+2025-12-22 12:43:15.923 | INFO     | backend_service:retrieve_chunks:86 - Processing IP retrieval for query: what is the other name for epyc turin
+2025-12-22 12:43:16.142 | INFO     | backend_service:retrieve_chunks:107 - Successfully retrieved 10 chunks.
+2025-12-22 12:47:01.942 | INFO     | backend_service:retrieve_chunks:86 - Processing IP retrieval for query: error page not found 404
+2025-12-22 12:47:02.385 | INFO     | backend_service:retrieve_chunks:107 - Successfully retrieved 10 chunks.
+2025-12-22 12:47:38.047 | INFO     | backend_service:retrieve_chunks:86 - Processing IP retrieval for query: 404
+2025-12-22 12:47:38.203 | INFO     | backend_service:retrieve_chunks:107 - Successfully retrieved 10 chunks.
+2025-12-22 12:47:40.049 | INFO     | backend_service:retrieve_chunks:86 - Processing IP retrieval for query: 404
+2025-12-22 12:47:40.195 | INFO     | backend_service:retrieve_chunks:107 - Successfully retrieved 10 chunks.
+2025-12-22 12:48:50.493 | INFO     | backend_service:retrieve_chunks:86 - Processing IP retrieval for query: 404
+2025-12-22 12:48:50.654 | INFO     | backend_service:retrieve_chunks:107 - Successfully retrieved 10 chunks.
